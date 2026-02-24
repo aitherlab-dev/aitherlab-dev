@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey, I'm building something
 
-<!--
-**aitherlab-dev/aitherlab-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a videographer with zero programming background. At 47, I decided to build a real desktop application — entirely with AI.
 
-Here are some ideas to get you started:
+**Claude GUI** — a native desktop client for Claude Code CLI.
+Built with Tauri 2, React, and Rust. Every line of code written by Claude Opus, directed by me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Multi-tab agent workflows, streaming responses, file editor, SQLite memory, voice input, MCP servers — the whole thing.
+
+No bootcamps. No tutorials. Just a human and an AI, building in public.
+
+### Follow along
+
+- 🌐 [aitherlab.org](https://aitherlab.org)
+- 💬 [Telegram](https://t.me/aitherlab)
+- 🐦 [X / Twitter](https://x.com/aitherlab)
+- 🧵 [Threads](https://threads.net/@aitherlab_)
+- 📷 [Instagram](https://instagram.com/aitherlab_)
