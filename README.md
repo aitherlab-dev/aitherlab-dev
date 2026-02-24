@@ -1,18 +1,18 @@
-## Hey, I'm building something
+## hey, i'm building something
 
-I'm a videographer with zero programming background. At 47, I decided to build a real desktop application — entirely with AI.
+i'm a videographer with zero programming background. at 47, i decided to build a real desktop application — entirely with AI.
 
-**Claude GUI** — a native desktop client for Claude Code CLI.
-Built with Tauri 2, React, and Rust. Every line of code written by Claude Opus, directed by me.
+**aither flow** — a native desktop client for Claude Code CLI.
+built with Tauri 2, React, and Rust. every line of code written by Claude Opus, directed by me.
 
-Multi-tab agent workflows, streaming responses, file editor, SQLite memory, voice input, MCP servers — the whole thing.
+multi-tab agent workflows, streaming responses, file editor, SQLite memory, voice input, MCP servers — the whole damn thing.
 
-No bootcamps. No tutorials. Just a human and an AI, building in public.
+no bootcamps. no tutorials. just a human and an AI, building in public.
 
-### Follow along
+### follow along
 
-- 🌐 [aitherlab.org](https://aitherlab.org)
-- 💬 [Telegram](https://t.me/aitherlab)
-- 🐦 [X / Twitter](https://x.com/aitherlab)
-- 🧵 [Threads](https://threads.net/@aitherlab_)
-- 📷 [Instagram](https://instagram.com/aitherlab_)
+· [aitherlab.org](https://aitherlab.org)
+· [Telegram](https://t.me/aitherlab)
+· [X](https://x.com/aitherlab)
+· [Threads](https://threads.net/@aitherlab_)
+· [Instagram](https://instagram.com/aitherlab_)
