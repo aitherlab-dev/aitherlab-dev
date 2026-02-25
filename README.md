@@ -18,3 +18,4 @@ no bootcamps. no tutorials. just a human and an AI, building in public.
 · [X](https://x.com/aitherlab)
 · [Threads](https://threads.net/@aitherlab_)
 · [Instagram](https://instagram.com/aitherlab_)
+· [YouTube](https://youtube.com/@aitherlab)
