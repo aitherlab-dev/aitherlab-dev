@@ -8,7 +8,3 @@ Built with Tauri 2, React, and Rust. Every line of code written by Claude Opus. 
 
 · [aitherlab.org](https://aitherlab.org)
 · [Telegram](https://t.me/aitherlab)
-· [X](https://x.com/aitherlab)
-· [Threads](https://threads.net/@aitherlab_)
-· [Instagram](https://instagram.com/aitherlab_)
-· [YouTube](https://youtube.com/@aitherlab)
